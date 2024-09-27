@@ -1,0 +1,11 @@
+{
+  "season": "2021",
+  "team_name": "Calgary Flames",
+  "games": 102,
+  "wins": 58,
+  "loses": 44,
+  "goals": {
+    "for": 349,
+    "against": 269
+  }
+}

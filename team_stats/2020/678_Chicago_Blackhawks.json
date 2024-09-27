@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Chicago Blackhawks",
+  "games": 56,
+  "wins": 24,
+  "loses": 32,
+  "goals": {
+    "for": 161,
+    "against": 186
+  }
+}

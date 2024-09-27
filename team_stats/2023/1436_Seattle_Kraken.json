@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Seattle Kraken",
+  "games": 88,
+  "wins": 37,
+  "loses": 51,
+  "goals": {
+    "for": 231,
+    "against": 251
+  }
+}

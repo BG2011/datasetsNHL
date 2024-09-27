@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Vegas Golden Knights",
+  "games": 111,
+  "wins": 71,
+  "loses": 40,
+  "goals": {
+    "for": 387,
+    "against": 307
+  }
+}

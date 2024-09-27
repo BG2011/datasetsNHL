@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Ottawa Senators",
+  "games": 56,
+  "wins": 23,
+  "loses": 33,
+  "goals": {
+    "for": 157,
+    "against": 190
+  }
+}

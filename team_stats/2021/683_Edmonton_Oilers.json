@@ -1,0 +1,11 @@
+{
+  "season": "2021",
+  "team_name": "Edmonton Oilers",
+  "games": 106,
+  "wins": 63,
+  "loses": 43,
+  "goals": {
+    "for": 381,
+    "against": 328
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Anaheim Ducks",
+  "games": 90,
+  "wins": 31,
+  "loses": 59,
+  "goals": {
+    "for": 227,
+    "against": 324
+  }
+}

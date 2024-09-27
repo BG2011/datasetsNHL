@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Carolina Hurricanes",
+  "games": 102,
+  "wins": 64,
+  "loses": 38,
+  "goals": {
+    "for": 336,
+    "against": 262
+  }
+}

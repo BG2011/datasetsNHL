@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Winnipeg Jets",
+  "games": 93,
+  "wins": 55,
+  "loses": 38,
+  "goals": {
+    "for": 288,
+    "against": 242
+  }
+}

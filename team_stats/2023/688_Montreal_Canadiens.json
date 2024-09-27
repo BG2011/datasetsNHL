@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Montreal Canadiens",
+  "games": 88,
+  "wins": 33,
+  "loses": 55,
+  "goals": {
+    "for": 255,
+    "against": 309
+  }
+}

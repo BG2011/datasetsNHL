@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Anaheim Ducks",
+  "games": 56,
+  "wins": 17,
+  "loses": 39,
+  "goals": {
+    "for": 126,
+    "against": 179
+  }
+}

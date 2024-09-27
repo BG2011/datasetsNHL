@@ -1,0 +1,11 @@
+{
+  "season": "2019",
+  "team_name": "Ottawa Senators",
+  "games": 77,
+  "wins": 28,
+  "loses": 49,
+  "goals": {
+    "for": 211,
+    "against": 263
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2021",
+  "team_name": "Boston Bruins",
+  "games": 95,
+  "wins": 56,
+  "loses": 39,
+  "goals": {
+    "for": 291,
+    "against": 261
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2019",
+  "team_name": "Los Angeles Kings",
+  "games": 77,
+  "wins": 33,
+  "loses": 44,
+  "goals": {
+    "for": 197,
+    "against": 230
+  }
+}

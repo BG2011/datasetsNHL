@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "Ottawa Senators",
+  "games": 88,
+  "wins": 31,
+  "loses": 57,
+  "goals": {
+    "for": 253,
+    "against": 319
+  }
+}

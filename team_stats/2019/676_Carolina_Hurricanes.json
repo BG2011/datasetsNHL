@@ -1,0 +1,11 @@
+{
+  "season": "2019",
+  "team_name": "Carolina Hurricanes",
+  "games": 83,
+  "wins": 44,
+  "loses": 39,
+  "goals": {
+    "for": 257,
+    "against": 227
+  }
+}

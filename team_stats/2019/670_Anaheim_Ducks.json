@@ -1,0 +1,11 @@
+{
+  "season": "2019",
+  "team_name": "Anaheim Ducks",
+  "games": 77,
+  "wins": 33,
+  "loses": 44,
+  "goals": {
+    "for": 202,
+    "against": 238
+  }
+}

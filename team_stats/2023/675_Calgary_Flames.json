@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Calgary Flames",
+  "games": 90,
+  "wins": 42,
+  "loses": 48,
+  "goals": {
+    "for": 281,
+    "against": 296
+  }
+}

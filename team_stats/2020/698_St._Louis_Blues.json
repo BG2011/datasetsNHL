@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "St. Louis Blues",
+  "games": 60,
+  "wins": 27,
+  "loses": 33,
+  "goals": {
+    "for": 176,
+    "against": 190
+  }
+}

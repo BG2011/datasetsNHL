@@ -1,0 +1,11 @@
+{
+  "season": "2019",
+  "team_name": "Chicago Blackhawks",
+  "games": 86,
+  "wins": 39,
+  "loses": 47,
+  "goals": {
+    "for": 256,
+    "against": 274
+  }
+}

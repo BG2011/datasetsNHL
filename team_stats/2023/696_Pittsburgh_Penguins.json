@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Pittsburgh Penguins",
+  "games": 89,
+  "wins": 41,
+  "loses": 48,
+  "goals": {
+    "for": 275,
+    "against": 271
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Dallas Stars",
+  "games": 56,
+  "wins": 23,
+  "loses": 33,
+  "goals": {
+    "for": 158,
+    "against": 154
+  }
+}

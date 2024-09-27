@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "New Jersey Devils",
+  "games": 56,
+  "wins": 19,
+  "loses": 37,
+  "goals": {
+    "for": 145,
+    "against": 194
+  }
+}

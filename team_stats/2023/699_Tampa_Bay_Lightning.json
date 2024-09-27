@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Tampa Bay Lightning",
+  "games": 94,
+  "wins": 51,
+  "loses": 43,
+  "goals": {
+    "for": 327,
+    "against": 306
+  }
+}

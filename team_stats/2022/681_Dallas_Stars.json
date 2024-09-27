@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Dallas Stars",
+  "games": 108,
+  "wins": 59,
+  "loses": 49,
+  "goals": {
+    "for": 358,
+    "against": 303
+  }
+}

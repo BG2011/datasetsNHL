@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Nashville Predators",
+  "games": 86,
+  "wins": 45,
+  "loses": 41,
+  "goals": {
+    "for": 245,
+    "against": 243
+  }
+}

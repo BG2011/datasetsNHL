@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Buffalo Sabres",
+  "games": 56,
+  "wins": 15,
+  "loses": 41,
+  "goals": {
+    "for": 138,
+    "against": 199
+  }
+}

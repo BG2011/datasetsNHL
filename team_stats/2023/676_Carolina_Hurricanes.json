@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Carolina Hurricanes",
+  "games": 99,
+  "wins": 61,
+  "loses": 38,
+  "goals": {
+    "for": 333,
+    "against": 265
+  }
+}

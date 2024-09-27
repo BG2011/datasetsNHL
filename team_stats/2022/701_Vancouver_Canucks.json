@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Vancouver Canucks",
+  "games": 89,
+  "wins": 40,
+  "loses": 49,
+  "goals": {
+    "for": 292,
+    "against": 324
+  }
+}

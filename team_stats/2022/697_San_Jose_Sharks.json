@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "San Jose Sharks",
+  "games": 87,
+  "wins": 26,
+  "loses": 61,
+  "goals": {
+    "for": 253,
+    "against": 335
+  }
+}

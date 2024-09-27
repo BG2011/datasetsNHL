@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Buffalo Sabres",
+  "games": 89,
+  "wins": 42,
+  "loses": 47,
+  "goals": {
+    "for": 268,
+    "against": 271
+  }
+}

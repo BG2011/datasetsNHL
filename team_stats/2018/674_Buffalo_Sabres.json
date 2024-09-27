@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "Buffalo Sabres",
+  "games": 89,
+  "wins": 36,
+  "loses": 53,
+  "goals": {
+    "for": 246,
+    "against": 295
+  }
+}

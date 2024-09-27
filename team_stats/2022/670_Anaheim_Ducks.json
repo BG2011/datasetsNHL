@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Anaheim Ducks",
+  "games": 89,
+  "wins": 27,
+  "loses": 62,
+  "goals": {
+    "for": 232,
+    "against": 359
+  }
+}

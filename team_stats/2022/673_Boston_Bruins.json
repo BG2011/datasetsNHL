@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Boston Bruins",
+  "games": 95,
+  "wins": 71,
+  "loses": 24,
+  "goals": {
+    "for": 348,
+    "against": 217
+  }
+}

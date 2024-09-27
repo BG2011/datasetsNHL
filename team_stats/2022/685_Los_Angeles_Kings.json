@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Los Angeles Kings",
+  "games": 95,
+  "wins": 52,
+  "loses": 43,
+  "goals": {
+    "for": 321,
+    "against": 304
+  }
+}

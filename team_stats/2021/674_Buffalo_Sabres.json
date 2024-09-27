@@ -1,0 +1,11 @@
+{
+  "season": "2021",
+  "team_name": "Buffalo Sabres",
+  "games": 88,
+  "wins": 34,
+  "loses": 54,
+  "goals": {
+    "for": 250,
+    "against": 313
+  }
+}

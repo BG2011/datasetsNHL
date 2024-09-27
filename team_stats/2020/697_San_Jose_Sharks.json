@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "San Jose Sharks",
+  "games": 56,
+  "wins": 21,
+  "loses": 35,
+  "goals": {
+    "for": 151,
+    "against": 199
+  }
+}

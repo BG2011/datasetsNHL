@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "Boston Bruins",
+  "games": 114,
+  "wins": 69,
+  "loses": 45,
+  "goals": {
+    "for": 362,
+    "against": 287
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Colorado Avalanche",
+  "games": 95,
+  "wins": 57,
+  "loses": 38,
+  "goals": {
+    "for": 312,
+    "against": 262
+  }
+}

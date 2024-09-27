@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Philadelphia Flyers",
+  "games": 88,
+  "wins": 32,
+  "loses": 56,
+  "goals": {
+    "for": 230,
+    "against": 293
+  }
+}

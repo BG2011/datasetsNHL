@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Columbus Blue Jackets",
+  "games": 56,
+  "wins": 18,
+  "loses": 38,
+  "goals": {
+    "for": 137,
+    "against": 187
+  }
+}

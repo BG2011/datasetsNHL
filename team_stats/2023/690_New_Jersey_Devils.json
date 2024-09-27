@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "New Jersey Devils",
+  "games": 89,
+  "wins": 45,
+  "loses": 44,
+  "goals": {
+    "for": 294,
+    "against": 296
+  }
+}

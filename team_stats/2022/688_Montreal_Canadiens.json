@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Montreal Canadiens",
+  "games": 90,
+  "wins": 31,
+  "loses": 59,
+  "goals": {
+    "for": 250,
+    "against": 338
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Detroit Red Wings",
+  "games": 90,
+  "wins": 46,
+  "loses": 44,
+  "goals": {
+    "for": 307,
+    "against": 296
+  }
+}

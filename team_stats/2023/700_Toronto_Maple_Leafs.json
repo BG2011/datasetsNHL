@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Toronto Maple Leafs",
+  "games": 97,
+  "wins": 53,
+  "loses": 44,
+  "goals": {
+    "for": 341,
+    "against": 304
+  }
+}

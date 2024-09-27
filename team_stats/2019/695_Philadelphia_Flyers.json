@@ -1,0 +1,11 @@
+{
+  "season": "2019",
+  "team_name": "Philadelphia Flyers",
+  "games": 92,
+  "wins": 53,
+  "loses": 39,
+  "goals": {
+    "for": 285,
+    "against": 254
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Minnesota Wild",
+  "games": 95,
+  "wins": 54,
+  "loses": 41,
+  "goals": {
+    "for": 287,
+    "against": 258
+  }
+}

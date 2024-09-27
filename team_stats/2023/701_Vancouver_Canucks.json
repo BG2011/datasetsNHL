@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Vancouver Canucks",
+  "games": 101,
+  "wins": 59,
+  "loses": 42,
+  "goals": {
+    "for": 323,
+    "against": 279
+  }
+}

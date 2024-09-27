@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Vegas Golden Knights",
+  "games": 96,
+  "wins": 51,
+  "loses": 45,
+  "goals": {
+    "for": 304,
+    "against": 283
+  }
+}

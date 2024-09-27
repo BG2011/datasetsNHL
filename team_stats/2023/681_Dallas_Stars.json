@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Dallas Stars",
+  "games": 108,
+  "wins": 66,
+  "loses": 42,
+  "goals": {
+    "for": 373,
+    "against": 299
+  }
+}

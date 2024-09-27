@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Vegas Golden Knights",
+  "games": 75,
+  "wins": 50,
+  "loses": 25,
+  "goals": {
+    "for": 244,
+    "against": 170
+  }
+}

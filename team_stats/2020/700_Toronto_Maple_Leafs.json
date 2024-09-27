@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Toronto Maple Leafs",
+  "games": 63,
+  "wins": 38,
+  "loses": 25,
+  "goals": {
+    "for": 205,
+    "against": 162
+  }
+}

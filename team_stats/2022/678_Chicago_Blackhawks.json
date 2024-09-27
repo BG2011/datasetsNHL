@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Chicago Blackhawks",
+  "games": 88,
+  "wins": 27,
+  "loses": 61,
+  "goals": {
+    "for": 210,
+    "against": 323
+  }
+}

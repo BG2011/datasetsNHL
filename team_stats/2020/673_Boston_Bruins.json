@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Boston Bruins",
+  "games": 67,
+  "wins": 39,
+  "loses": 28,
+  "goals": {
+    "for": 201,
+    "against": 168
+  }
+}

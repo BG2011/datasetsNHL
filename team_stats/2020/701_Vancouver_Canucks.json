@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Vancouver Canucks",
+  "games": 56,
+  "wins": 23,
+  "loses": 33,
+  "goals": {
+    "for": 151,
+    "against": 188
+  }
+}

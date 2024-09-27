@@ -1,0 +1,11 @@
+{
+  "season": "2019",
+  "team_name": "Detroit Red Wings",
+  "games": 80,
+  "wins": 20,
+  "loses": 60,
+  "goals": {
+    "for": 168,
+    "against": 295
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2021",
+  "team_name": "Dallas Stars",
+  "games": 96,
+  "wins": 52,
+  "loses": 44,
+  "goals": {
+    "for": 273,
+    "against": 282
+  }
+}

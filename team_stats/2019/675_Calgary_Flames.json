@@ -1,0 +1,11 @@
+{
+  "season": "2019",
+  "team_name": "Calgary Flames",
+  "games": 89,
+  "wins": 45,
+  "loses": 44,
+  "goals": {
+    "for": 265,
+    "against": 272
+  }
+}

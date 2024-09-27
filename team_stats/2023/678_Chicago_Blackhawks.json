@@ -1,0 +1,11 @@
+{
+  "season": "2023",
+  "team_name": "Chicago Blackhawks",
+  "games": 88,
+  "wins": 25,
+  "loses": 63,
+  "goals": {
+    "for": 193,
+    "against": 310
+  }
+}

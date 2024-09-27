@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "New Jersey Devils",
+  "games": 101,
+  "wins": 62,
+  "loses": 39,
+  "goals": {
+    "for": 341,
+    "against": 281
+  }
+}

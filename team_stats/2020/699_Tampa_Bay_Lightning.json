@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Tampa Bay Lightning",
+  "games": 79,
+  "wins": 52,
+  "loses": 27,
+  "goals": {
+    "for": 256,
+    "against": 192
+  }
+}

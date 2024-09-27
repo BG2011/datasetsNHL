@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Toronto Maple Leafs",
+  "games": 100,
+  "wins": 60,
+  "loses": 40,
+  "goals": {
+    "for": 339,
+    "against": 271
+  }
+}

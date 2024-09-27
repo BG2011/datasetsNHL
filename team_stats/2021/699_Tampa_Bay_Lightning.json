@@ -1,0 +1,11 @@
+{
+  "season": "2021",
+  "team_name": "Tampa Bay Lightning",
+  "games": 112,
+  "wins": 68,
+  "loses": 44,
+  "goals": {
+    "for": 378,
+    "against": 321
+  }
+}

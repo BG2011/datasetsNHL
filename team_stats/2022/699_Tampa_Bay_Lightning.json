@@ -1,0 +1,11 @@
+{
+  "season": "2022",
+  "team_name": "Tampa Bay Lightning",
+  "games": 93,
+  "wins": 49,
+  "loses": 44,
+  "goals": {
+    "for": 313,
+    "against": 296
+  }
+}

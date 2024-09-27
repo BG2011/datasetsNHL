@@ -1,0 +1,11 @@
+{
+  "season": "2020",
+  "team_name": "Colorado Avalanche",
+  "games": 66,
+  "wins": 45,
+  "loses": 21,
+  "goals": {
+    "for": 235,
+    "against": 160
+  }
+}
