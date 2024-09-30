@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Chicago Blackhawks",
+  "games": 92,
+  "wins": 52,
+  "loses": 40,
+  "goals": {
+    "for": 261,
+    "against": 238
+  }
+}

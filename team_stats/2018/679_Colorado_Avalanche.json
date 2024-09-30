@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "Colorado Avalanche",
+  "games": 100,
+  "wins": 48,
+  "loses": 52,
+  "goals": {
+    "for": 312,
+    "against": 303
+  }
+}

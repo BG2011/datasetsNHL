@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "Vegas Golden Knights",
+  "games": 109,
+  "wins": 67,
+  "loses": 42,
+  "goals": {
+    "for": 355,
+    "against": 299
+  }
+}

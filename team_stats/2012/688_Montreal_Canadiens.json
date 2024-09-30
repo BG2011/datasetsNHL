@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Montreal Canadiens",
+  "games": 53,
+  "wins": 30,
+  "loses": 23,
+  "goals": {
+    "for": 158,
+    "against": 146
+  }
+}

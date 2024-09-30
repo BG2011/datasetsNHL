@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "San Jose Sharks",
+  "games": 98,
+  "wins": 55,
+  "loses": 43,
+  "goals": {
+    "for": 302,
+    "against": 271
+  }
+}

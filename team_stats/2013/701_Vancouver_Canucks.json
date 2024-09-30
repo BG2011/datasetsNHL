@@ -1,0 +1,11 @@
+{
+  "season": "2013",
+  "team_name": "Vancouver Canucks",
+  "games": 88,
+  "wins": 38,
+  "loses": 50,
+  "goals": {
+    "for": 212,
+    "against": 241
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "Minnesota Wild",
+  "games": 94,
+  "wins": 51,
+  "loses": 43,
+  "goals": {
+    "for": 278,
+    "against": 263
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "Anaheim Ducks",
+  "games": 88,
+  "wins": 38,
+  "loses": 50,
+  "goals": {
+    "for": 218,
+    "against": 274
+  }
+}

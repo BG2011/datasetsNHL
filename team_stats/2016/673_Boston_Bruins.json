@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Boston Bruins",
+  "games": 95,
+  "wins": 50,
+  "loses": 45,
+  "goals": {
+    "for": 262,
+    "against": 244
+  }
+}

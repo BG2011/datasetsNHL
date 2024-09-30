@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Pittsburgh Penguins",
+  "games": 113,
+  "wins": 69,
+  "loses": 44,
+  "goals": {
+    "for": 371,
+    "against": 305
+  }
+}

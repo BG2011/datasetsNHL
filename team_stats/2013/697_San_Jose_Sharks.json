@@ -1,0 +1,11 @@
+{
+  "season": "2013",
+  "team_name": "San Jose Sharks",
+  "games": 95,
+  "wins": 58,
+  "loses": 37,
+  "goals": {
+    "for": 291,
+    "against": 240
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Detroit Red Wings",
+  "games": 62,
+  "wins": 31,
+  "loses": 31,
+  "goals": {
+    "for": 157,
+    "against": 152
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "Pittsburgh Penguins",
+  "games": 92,
+  "wins": 46,
+  "loses": 46,
+  "goals": {
+    "for": 303,
+    "against": 275
+  }
+}

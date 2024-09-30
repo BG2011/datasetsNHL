@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Toronto Maple Leafs",
+  "games": 55,
+  "wins": 29,
+  "loses": 26,
+  "goals": {
+    "for": 163,
+    "against": 155
+  }
+}

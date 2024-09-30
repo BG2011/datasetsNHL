@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "Tampa Bay Lightning",
+  "games": 106,
+  "wins": 68,
+  "loses": 38,
+  "goals": {
+    "for": 363,
+    "against": 305
+  }
+}

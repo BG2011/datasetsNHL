@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "Detroit Red Wings",
+  "games": 90,
+  "wins": 33,
+  "loses": 57,
+  "goals": {
+    "for": 241,
+    "against": 283
+  }
+}

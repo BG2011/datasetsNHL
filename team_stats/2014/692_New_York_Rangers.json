@@ -1,0 +1,11 @@
+{
+  "season": "2014",
+  "team_name": "New York Rangers",
+  "games": 107,
+  "wins": 67,
+  "loses": 40,
+  "goals": {
+    "for": 316,
+    "against": 251
+  }
+}

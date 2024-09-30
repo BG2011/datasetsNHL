@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "San Jose Sharks",
+  "games": 108,
+  "wins": 58,
+  "loses": 50,
+  "goals": {
+    "for": 372,
+    "against": 352
+  }
+}

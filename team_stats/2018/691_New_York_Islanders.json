@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "New York Islanders",
+  "games": 98,
+  "wins": 57,
+  "loses": 41,
+  "goals": {
+    "for": 270,
+    "against": 235
+  }
+}

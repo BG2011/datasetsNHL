@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "Edmonton Oilers",
+  "games": 90,
+  "wins": 42,
+  "loses": 48,
+  "goals": {
+    "for": 267,
+    "against": 284
+  }
+}

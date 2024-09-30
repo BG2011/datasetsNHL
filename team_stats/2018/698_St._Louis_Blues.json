@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "St. Louis Blues",
+  "games": 115,
+  "wins": 65,
+  "loses": 50,
+  "goals": {
+    "for": 341,
+    "against": 311
+  }
+}

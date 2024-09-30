@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "Florida Panthers",
+  "games": 88,
+  "wins": 48,
+  "loses": 40,
+  "goals": {
+    "for": 269,
+    "against": 261
+  }
+}

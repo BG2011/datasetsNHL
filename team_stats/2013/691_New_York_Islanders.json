@@ -1,0 +1,11 @@
+{
+  "season": "2013",
+  "team_name": "New York Islanders",
+  "games": 90,
+  "wins": 38,
+  "loses": 52,
+  "goals": {
+    "for": 250,
+    "against": 291
+  }
+}

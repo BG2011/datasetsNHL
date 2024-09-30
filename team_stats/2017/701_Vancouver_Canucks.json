@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "Vancouver Canucks",
+  "games": 90,
+  "wins": 35,
+  "loses": 55,
+  "goals": {
+    "for": 245,
+    "against": 296
+  }
+}

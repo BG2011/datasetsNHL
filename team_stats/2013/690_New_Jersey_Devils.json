@@ -1,0 +1,11 @@
+{
+  "season": "2013",
+  "team_name": "New Jersey Devils",
+  "games": 88,
+  "wins": 39,
+  "loses": 49,
+  "goals": {
+    "for": 213,
+    "against": 219
+  }
+}

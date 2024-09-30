@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "Nashville Predators",
+  "games": 94,
+  "wins": 52,
+  "loses": 42,
+  "goals": {
+    "for": 271,
+    "against": 253
+  }
+}

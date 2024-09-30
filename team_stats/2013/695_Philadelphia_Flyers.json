@@ -1,0 +1,11 @@
+{
+  "season": "2013",
+  "team_name": "Philadelphia Flyers",
+  "games": 96,
+  "wins": 46,
+  "loses": 50,
+  "goals": {
+    "for": 268,
+    "against": 279
+  }
+}

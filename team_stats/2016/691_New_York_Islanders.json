@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "New York Islanders",
+  "games": 90,
+  "wins": 45,
+  "loses": 45,
+  "goals": {
+    "for": 257,
+    "against": 264
+  }
+}

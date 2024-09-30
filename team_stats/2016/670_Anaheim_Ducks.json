@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Anaheim Ducks",
+  "games": 106,
+  "wins": 58,
+  "loses": 48,
+  "goals": {
+    "for": 283,
+    "against": 268
+  }
+}

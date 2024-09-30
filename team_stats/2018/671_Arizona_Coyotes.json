@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "Arizona Coyotes",
+  "games": 89,
+  "wins": 43,
+  "loses": 46,
+  "goals": {
+    "for": 237,
+    "against": 244
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "Montreal Canadiens",
+  "games": 90,
+  "wins": 31,
+  "loses": 59,
+  "goals": {
+    "for": 230,
+    "against": 292
+  }
+}

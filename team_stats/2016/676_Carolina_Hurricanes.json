@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Carolina Hurricanes",
+  "games": 89,
+  "wins": 40,
+  "loses": 49,
+  "goals": {
+    "for": 228,
+    "against": 250
+  }
+}

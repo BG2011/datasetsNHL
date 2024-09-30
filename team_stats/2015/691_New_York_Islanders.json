@@ -1,0 +1,11 @@
+{
+  "season": "2015",
+  "team_name": "New York Islanders",
+  "games": 101,
+  "wins": 52,
+  "loses": 49,
+  "goals": {
+    "for": 276,
+    "against": 279
+  }
+}

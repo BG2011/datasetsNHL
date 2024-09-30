@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Boston Bruins",
+  "games": 70,
+  "wins": 42,
+  "loses": 28,
+  "goals": {
+    "for": 196,
+    "against": 156
+  }
+}

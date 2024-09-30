@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "Toronto Maple Leafs",
+  "games": 97,
+  "wins": 57,
+  "loses": 40,
+  "goals": {
+    "for": 322,
+    "against": 280
+  }
+}

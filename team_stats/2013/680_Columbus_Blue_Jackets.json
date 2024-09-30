@@ -1,0 +1,11 @@
+{
+  "season": "2013",
+  "team_name": "Columbus Blue Jackets",
+  "games": 96,
+  "wins": 49,
+  "loses": 47,
+  "goals": {
+    "for": 270,
+    "against": 259
+  }
+}

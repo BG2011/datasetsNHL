@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Tampa Bay Lightning",
+  "games": 48,
+  "wins": 18,
+  "loses": 30,
+  "goals": {
+    "for": 148,
+    "against": 150
+  }
+}

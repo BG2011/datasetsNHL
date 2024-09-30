@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Ottawa Senators",
+  "games": 58,
+  "wins": 30,
+  "loses": 28,
+  "goals": {
+    "for": 147,
+    "against": 135
+  }
+}

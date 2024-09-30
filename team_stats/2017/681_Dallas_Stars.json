@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "Dallas Stars",
+  "games": 88,
+  "wins": 45,
+  "loses": 43,
+  "goals": {
+    "for": 252,
+    "against": 243
+  }
+}

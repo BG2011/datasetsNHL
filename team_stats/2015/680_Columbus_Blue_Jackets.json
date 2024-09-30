@@ -1,0 +1,11 @@
+{
+  "season": "2015",
+  "team_name": "Columbus Blue Jackets",
+  "games": 90,
+  "wins": 39,
+  "loses": 51,
+  "goals": {
+    "for": 248,
+    "against": 273
+  }
+}

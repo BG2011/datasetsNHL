@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Calgary Flames",
+  "games": 93,
+  "wins": 48,
+  "loses": 45,
+  "goals": {
+    "for": 245,
+    "against": 251
+  }
+}

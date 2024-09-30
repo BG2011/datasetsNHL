@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Montreal Canadiens",
+  "games": 95,
+  "wins": 53,
+  "loses": 42,
+  "goals": {
+    "for": 262,
+    "against": 232
+  }
+}

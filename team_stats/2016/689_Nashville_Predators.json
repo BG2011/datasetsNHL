@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Nashville Predators",
+  "games": 110,
+  "wins": 57,
+  "loses": 53,
+  "goals": {
+    "for": 314,
+    "against": 291
+  }
+}

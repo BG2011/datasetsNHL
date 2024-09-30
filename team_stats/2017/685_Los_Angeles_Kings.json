@@ -1,0 +1,11 @@
+{
+  "season": "2017",
+  "team_name": "Los Angeles Kings",
+  "games": 93,
+  "wins": 50,
+  "loses": 43,
+  "goals": {
+    "for": 264,
+    "against": 226
+  }
+}

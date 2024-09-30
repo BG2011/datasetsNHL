@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Toronto Maple Leafs",
+  "games": 96,
+  "wins": 44,
+  "loses": 52,
+  "goals": {
+    "for": 288,
+    "against": 285
+  }
+}

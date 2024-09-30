@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "San Jose Sharks",
+  "games": 94,
+  "wins": 51,
+  "loses": 43,
+  "goals": {
+    "for": 247,
+    "against": 227
+  }
+}

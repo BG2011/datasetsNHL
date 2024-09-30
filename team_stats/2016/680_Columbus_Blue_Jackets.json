@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Columbus Blue Jackets",
+  "games": 95,
+  "wins": 55,
+  "loses": 40,
+  "goals": {
+    "for": 280,
+    "against": 241
+  }
+}

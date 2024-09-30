@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "Chicago Blackhawks",
+  "games": 88,
+  "wins": 38,
+  "loses": 50,
+  "goals": {
+    "for": 289,
+    "against": 313
+  }
+}

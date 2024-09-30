@@ -1,0 +1,11 @@
+{
+  "season": "2015",
+  "team_name": "Dallas Stars",
+  "games": 102,
+  "wins": 58,
+  "loses": 44,
+  "goals": {
+    "for": 315,
+    "against": 299
+  }
+}

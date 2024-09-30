@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Detroit Red Wings",
+  "games": 90,
+  "wins": 39,
+  "loses": 51,
+  "goals": {
+    "for": 235,
+    "against": 264
+  }
+}

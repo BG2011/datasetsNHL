@@ -1,0 +1,11 @@
+{
+  "season": "2013",
+  "team_name": "Pittsburgh Penguins",
+  "games": 101,
+  "wins": 61,
+  "loses": 40,
+  "goals": {
+    "for": 304,
+    "against": 260
+  }
+}

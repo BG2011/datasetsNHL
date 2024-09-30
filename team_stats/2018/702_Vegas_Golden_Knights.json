@@ -1,0 +1,11 @@
+{
+  "season": "2018",
+  "team_name": "Vegas Golden Knights",
+  "games": 96,
+  "wins": 52,
+  "loses": 44,
+  "goals": {
+    "for": 308,
+    "against": 269
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2013",
+  "team_name": "Minnesota Wild",
+  "games": 101,
+  "wins": 53,
+  "loses": 48,
+  "goals": {
+    "for": 257,
+    "against": 254
+  }
+}

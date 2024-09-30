@@ -1,0 +1,11 @@
+{
+  "season": "2015",
+  "team_name": "Vancouver Canucks",
+  "games": 90,
+  "wins": 35,
+  "loses": 55,
+  "goals": {
+    "for": 206,
+    "against": 261
+  }
+}

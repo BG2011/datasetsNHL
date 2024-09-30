@@ -1,0 +1,11 @@
+{
+  "season": "2016",
+  "team_name": "Philadelphia Flyers",
+  "games": 90,
+  "wins": 43,
+  "loses": 47,
+  "goals": {
+    "for": 236,
+    "against": 251
+  }
+}
