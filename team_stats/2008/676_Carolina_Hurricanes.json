@@ -1,0 +1,11 @@
+{
+  "season": "2008",
+  "team_name": "Carolina Hurricanes",
+  "games": 99,
+  "wins": 52,
+  "loses": 47,
+  "goals": {
+    "for": 275,
+    "against": 274
+  }
+}

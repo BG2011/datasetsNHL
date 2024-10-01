@@ -1,0 +1,11 @@
+{
+  "season": "2010",
+  "team_name": "Toronto Maple Leafs",
+  "games": 91,
+  "wins": 42,
+  "loses": 49,
+  "goals": {
+    "for": 245,
+    "against": 282
+  }
+}

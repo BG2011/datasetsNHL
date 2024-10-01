@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "San Jose Sharks",
+  "games": 93,
+  "wins": 49,
+  "loses": 44,
+  "goals": {
+    "for": 256,
+    "against": 232
+  }
+}

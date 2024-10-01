@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Los Angeles Kings",
+  "games": 66,
+  "wins": 36,
+  "loses": 30,
+  "goals": {
+    "for": 170,
+    "against": 152
+  }
+}

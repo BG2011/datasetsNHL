@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "New York Islanders",
+  "games": 87,
+  "wins": 35,
+  "loses": 52,
+  "goals": {
+    "for": 214,
+    "against": 269
+  }
+}

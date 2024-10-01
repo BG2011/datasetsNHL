@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "Tampa Bay Lightning",
+  "games": 88,
+  "wins": 41,
+  "loses": 47,
+  "goals": {
+    "for": 254,
+    "against": 298
+  }
+}

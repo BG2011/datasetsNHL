@@ -1,0 +1,11 @@
+{
+  "season": "2010",
+  "team_name": "New Jersey Devils",
+  "games": 88,
+  "wins": 40,
+  "loses": 48,
+  "goals": {
+    "for": 191,
+    "against": 228
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "Columbus Blue Jackets",
+  "games": 90,
+  "wins": 34,
+  "loses": 56,
+  "goals": {
+    "for": 227,
+    "against": 284
+  }
+}

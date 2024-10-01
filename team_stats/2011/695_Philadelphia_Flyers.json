@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "Philadelphia Flyers",
+  "games": 100,
+  "wins": 56,
+  "loses": 44,
+  "goals": {
+    "for": 325,
+    "against": 291
+  }
+}

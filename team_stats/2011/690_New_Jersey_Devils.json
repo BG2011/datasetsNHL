@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "New Jersey Devils",
+  "games": 112,
+  "wins": 65,
+  "loses": 47,
+  "goals": {
+    "for": 298,
+    "against": 281
+  }
+}

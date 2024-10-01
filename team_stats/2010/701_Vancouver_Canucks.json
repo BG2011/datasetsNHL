@@ -1,0 +1,11 @@
+{
+  "season": "2010",
+  "team_name": "Vancouver Canucks",
+  "games": 115,
+  "wins": 72,
+  "loses": 43,
+  "goals": {
+    "for": 340,
+    "against": 281
+  }
+}

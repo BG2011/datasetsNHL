@@ -1,0 +1,11 @@
+{
+  "season": "2010",
+  "team_name": "Colorado Avalanche",
+  "games": 89,
+  "wins": 32,
+  "loses": 56,
+  "goals": {
+    "for": 235,
+    "against": 299
+  }
+}

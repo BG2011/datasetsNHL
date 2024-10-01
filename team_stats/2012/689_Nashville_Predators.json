@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Nashville Predators",
+  "games": 48,
+  "wins": 16,
+  "loses": 32,
+  "goals": {
+    "for": 111,
+    "against": 139
+  }
+}

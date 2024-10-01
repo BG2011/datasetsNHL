@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "Winnipeg Jets",
+  "games": 89,
+  "wins": 40,
+  "loses": 49,
+  "goals": {
+    "for": 243,
+    "against": 265
+  }
+}

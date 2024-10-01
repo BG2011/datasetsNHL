@@ -1,0 +1,11 @@
+{
+  "season": "2010",
+  "team_name": "Buffalo Sabres",
+  "games": 95,
+  "wins": 50,
+  "loses": 44,
+  "goals": {
+    "for": 285,
+    "against": 262
+  }
+}

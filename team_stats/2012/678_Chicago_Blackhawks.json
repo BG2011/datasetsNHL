@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Chicago Blackhawks",
+  "games": 71,
+  "wins": 52,
+  "loses": 19,
+  "goals": {
+    "for": 219,
+    "against": 150
+  }
+}

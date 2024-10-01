@@ -1,0 +1,11 @@
+{
+  "season": "2010",
+  "team_name": "Carolina Hurricanes",
+  "games": 87,
+  "wins": 43,
+  "loses": 44,
+  "goals": {
+    "for": 244,
+    "against": 247
+  }
+}

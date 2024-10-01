@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "Carolina Hurricanes",
+  "games": 88,
+  "wins": 34,
+  "loses": 54,
+  "goals": {
+    "for": 224,
+    "against": 257
+  }
+}

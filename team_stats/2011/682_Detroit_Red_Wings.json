@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "Detroit Red Wings",
+  "games": 95,
+  "wins": 53,
+  "loses": 42,
+  "goals": {
+    "for": 281,
+    "against": 240
+  }
+}

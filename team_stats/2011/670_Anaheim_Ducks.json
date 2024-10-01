@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "Anaheim Ducks",
+  "games": 89,
+  "wins": 37,
+  "loses": 52,
+  "goals": {
+    "for": 221,
+    "against": 256
+  }
+}

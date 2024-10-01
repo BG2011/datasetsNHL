@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "St. Louis Blues",
+  "games": 54,
+  "wins": 31,
+  "loses": 23,
+  "goals": {
+    "for": 139,
+    "against": 127
+  }
+}

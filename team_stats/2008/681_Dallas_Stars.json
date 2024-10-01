@@ -1,0 +1,11 @@
+{
+  "season": "2008",
+  "team_name": "Dallas Stars",
+  "games": 82,
+  "wins": 36,
+  "loses": 46,
+  "goals": {
+    "for": 230,
+    "against": 257
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2009",
+  "team_name": "Winnipeg Jets",
+  "games": 88,
+  "wins": 37,
+  "loses": 51,
+  "goals": {
+    "for": 248,
+    "against": 278
+  }
+}

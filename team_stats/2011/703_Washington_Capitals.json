@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "Washington Capitals",
+  "games": 103,
+  "wins": 52,
+  "loses": 51,
+  "goals": {
+    "for": 268,
+    "against": 278
+  }
+}

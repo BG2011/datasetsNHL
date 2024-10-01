@@ -1,0 +1,11 @@
+{
+  "season": "2008",
+  "team_name": "Florida Panthers",
+  "games": 81,
+  "wins": 41,
+  "loses": 40,
+  "goals": {
+    "for": 230,
+    "against": 225
+  }
+}

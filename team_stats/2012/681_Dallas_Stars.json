@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Dallas Stars",
+  "games": 48,
+  "wins": 22,
+  "loses": 26,
+  "goals": {
+    "for": 130,
+    "against": 142
+  }
+}

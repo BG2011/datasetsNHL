@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Pittsburgh Penguins",
+  "games": 63,
+  "wins": 44,
+  "loses": 19,
+  "goals": {
+    "for": 214,
+    "against": 159
+  }
+}

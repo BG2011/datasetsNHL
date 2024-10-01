@@ -1,0 +1,11 @@
+{
+  "season": "2010",
+  "team_name": "Philadelphia Flyers",
+  "games": 101,
+  "wins": 55,
+  "loses": 45,
+  "goals": {
+    "for": 305,
+    "against": 282
+  }
+}

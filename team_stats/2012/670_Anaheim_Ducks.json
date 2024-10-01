@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Anaheim Ducks",
+  "games": 55,
+  "wins": 33,
+  "loses": 22,
+  "goals": {
+    "for": 161,
+    "against": 136
+  }
+}

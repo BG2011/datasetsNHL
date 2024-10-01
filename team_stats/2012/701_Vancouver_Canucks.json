@@ -1,0 +1,11 @@
+{
+  "season": "2012",
+  "team_name": "Vancouver Canucks",
+  "games": 52,
+  "wins": 26,
+  "loses": 26,
+  "goals": {
+    "for": 135,
+    "against": 136
+  }
+}

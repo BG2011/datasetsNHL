@@ -1,0 +1,11 @@
+{
+  "season": "2011",
+  "team_name": "Buffalo Sabres",
+  "games": 88,
+  "wins": 43,
+  "loses": 45,
+  "goals": {
+    "for": 233,
+    "against": 243
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "season": "2009",
+  "team_name": "Columbus Blue Jackets",
+  "games": 89,
+  "wins": 36,
+  "loses": 53,
+  "goals": {
+    "for": 240,
+    "against": 278
+  }
+}
